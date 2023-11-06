@@ -169,13 +169,12 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## LED OFF:
  
- ![262864843-f1ba41dc-2abd-4685-a676-3561c6d7fdb0](https://github.com/Bala1511/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118680410/10e6ef37-f1b4-4694-afee-3dc56ce1c53a)
+ 
 <img src='https://github.com/Bala1511/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118680410/10e6ef37-f1b4-4694-afee-3dc56ce1c53a' width='450' height='450'>
 
  ## LED ON:
  
- ![262864471-894a1e39-96d1-4452-9ce0-2a9c50adf375](https://github.com/Bala1511/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118680410/c770aecb-38b3-4e9c-bd83-b00bc518a15f)
-
+<img src='https://github.com/Bala1511/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118680410/c770aecb-38b3-4e9c-bd83-b00bc518a15f' width='450' height='450'>
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
