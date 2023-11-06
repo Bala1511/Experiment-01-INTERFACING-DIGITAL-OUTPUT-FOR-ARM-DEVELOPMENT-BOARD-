@@ -170,7 +170,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  ## LED OFF:
  
  ![262864843-f1ba41dc-2abd-4685-a676-3561c6d7fdb0](https://github.com/Bala1511/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118680410/10e6ef37-f1b4-4694-afee-3dc56ce1c53a)
-
+<img src='https://github.com/Bala1511/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118680410/10e6ef37-f1b4-4694-afee-3dc56ce1c53a' width='450' height='450'>
 
  ## LED ON:
  
